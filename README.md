@@ -1,2 +1,2 @@
 # hello-world
-I like :books: and :sea:
+I like :books: and the sea
